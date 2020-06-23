@@ -1,7 +1,7 @@
-#This is the sample code and its implementations for SIH-2020.
+
 # Jupiter notebook Created by Nilotpal Mrinal
 # Dated - 7th January 2020
-# The data has been taken from data.gov.in in csv format.
+
 
 import matplotlib.pyplot as plt
 import pandas as pd
