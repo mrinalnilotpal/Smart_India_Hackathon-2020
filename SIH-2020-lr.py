@@ -17,7 +17,7 @@ df.head()
 # Now lets have a look at the summary of the data
 df.describe()
 
-# i have selected 3 coulumns for comaprison and predictions.
+
 sdf = df[['Year','Road Transport-Freight Movement (Numbers in Billion Tonnes Kilometres)','Railways-Freight Movement (Numbers in Billion Tonnes Kilometres)']]
 sdf.head()
 
