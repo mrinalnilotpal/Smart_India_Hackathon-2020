@@ -13,7 +13,7 @@ df = pd.read_csv("1.10_1.11__rtyb_2006_07.csv")
 
 df.head()
 
-# Now lets have a look at the summary of the data
+
 df.describe()
 
 
