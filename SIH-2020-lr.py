@@ -21,7 +21,7 @@ sdf = df[['Year','Road Transport-Freight Movement (Numbers in Billion Tonnes Kil
 sdf.head()
 
 
-# lets plot a histogram for better intution.
+
 
 viz = sdf[['Year','Road Transport-Freight Movement (Numbers in Billion Tonnes Kilometres)','Railways-Freight Movement (Numbers in Billion Tonnes Kilometres)']]
 viz.hist()
