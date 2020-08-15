@@ -1,5 +1,4 @@
 
-# Dated - 7th January 2020
 
 
 import matplotlib.pyplot as plt
